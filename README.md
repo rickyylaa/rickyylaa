@@ -1,7 +1,7 @@
 # Hi there, I'm Ricky Fajar Adiputra 👋
 
 ## About Me
-I am a software developer with a strong passion for building web applications. I graduated with a Bachelor's degree from Universitas Dinamika Bangsa and specialize in JavaScript and PHP.
+I am a web developer with a strong passion for building web applications. I graduated with a Bachelor's degree from Universitas Dinamika Bangsa and specialize in JavaScript and PHP.
 
 ## Skills
 - **Programming Languages:** JavaScript, PHP
