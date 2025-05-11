@@ -1,9 +1,9 @@
 <h1 align="left">Hello World! I'm Ricky Fajar Adiputra.</h1>
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="img/github-header-image.png"  />
 </div>
 <div align="left">
-  <img src="img/github-header-image.png"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rickyylaa.rickyylaa&"  />
 </div>
 
 <h2 align="left">About Me</h2>
