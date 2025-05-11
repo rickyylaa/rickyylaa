@@ -29,17 +29,9 @@
 <br clear="both">
 
 <p align="left">Saya Ricky Fajar Adiputra, backend developer lulusan Universitas Dinamika Bangsa, Jambi. Berpengalaman mengerjakan berbagai proyek freelance dengan fokus pada pengembangan backend menggunakan Laravel. Saya memiliki kemampuan dalam merancang arsitektur backend, mengelola basis data, serta membangun sistem yang stabil dan mudah dikembangkan.</p>
-
-###
-
 <br clear="both">
-
 <h5 align="left">Tech Stack</h5>
-
-###
-
 <br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
