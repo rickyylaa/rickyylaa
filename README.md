@@ -1,7 +1,8 @@
-<h1 align="left">Hello World! I'm Ricky Fajar Adiputra.</h1>
+<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h1>
 <div align="center">
   <img height="200" src="img/github-header-image.png"  />
 </div>
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rickyylaa.rickyylaa&"  />
 </div>
