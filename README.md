@@ -8,7 +8,7 @@
 </div>
 
 <h2 align="left">About Me</h2>
-<p align="left">Saya Ricky Fajar Adiputra, backend developer lulusan Universitas Dinamika Bangsa, Jambi. Berpengalaman mengerjakan berbagai proyek freelance dengan fokus pada pengembangan backend menggunakan Laravel. Saya memiliki kemampuan dalam merancang arsitektur backend, mengelola basis data, serta membangun sistem yang stabil dan mudah dikembangkan.</p>
+<p align="justify">Saya Ricky Fajar Adiputra, backend developer lulusan Universitas Dinamika Bangsa, Jambi. Berpengalaman mengerjakan berbagai proyek freelance dengan fokus pada pengembangan backend menggunakan Laravel. Saya memiliki kemampuan dalam merancang arsitektur backend, mengelola basis data, serta membangun sistem yang stabil dan mudah dikembangkan.</p>
 
 <h2 align="left">Tech Stack</h2>
 <div align="left">
@@ -25,10 +25,10 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /> -->
 </div>
 
 <h2 align="left">Connect With Me</h2>
