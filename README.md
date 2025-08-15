@@ -29,14 +29,6 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 <h2 align="left">Connect With Me</h2>
